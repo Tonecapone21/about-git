@@ -15,9 +15,9 @@ Distributed version control system.
 A hub of Gits
 
 ## Repository
-* Help me
-* 
+
 A project saved in git
+* Help me
 
 ## Branches
 
