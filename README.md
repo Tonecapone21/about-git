@@ -6,10 +6,11 @@ Distributed version control system.
 
 * [Try Git](http://try.github.io/levels/1/challenges/1)
 
-## GihHub
+## GitHub
 
 * [Help](https://help.github.com/)
 * [GitHub for Mac](http://mac.github.com/)
+
 
 
 * [Google](http://google.com/) 
@@ -18,6 +19,7 @@ Distributed version control system.
 
 
 * [Google](http://www.google.com)
+
 * [Wikipedia](http://www.wikipedia.org)
 
 
