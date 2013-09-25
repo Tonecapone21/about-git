@@ -10,6 +10,7 @@ Distributed version control system.
 
 * [Help](https://help.github.com/)
 * [GitHub for Mac](http://mac.github.com/)
+* [GitHub for mac](http://google.com/) 
 
 A hub of Gits
 
