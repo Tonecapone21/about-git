@@ -11,6 +11,7 @@ Distributed version control system.
 * [Help](https://help.github.com/)
 * [GitHub for Mac](http://mac.github.com/)
 * [Google](http://google.com/) 
+* [wikipedia](https://wikipedia.com/)
 
 A hub of Gits
 
