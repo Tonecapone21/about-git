@@ -17,7 +17,6 @@ A hub of Gits
 ## Repository
 
 A project saved in git
-* Help me
 
 ## Branches
 
