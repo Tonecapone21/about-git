@@ -27,12 +27,16 @@ About Git
 Terminologies
 </h1>
 
-## Repository
+<h3>
+Repository
+</h3>
 
 A project saved in git
 
-## Branches
+<h1>
+Branches
+</h1>
 
-## Comits
+Commits
 
 ## Pull request
