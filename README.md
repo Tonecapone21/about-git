@@ -24,7 +24,7 @@ About Git
 * [Help](https://help.github.com/)
 
 <h1>
-Terminologies
+Terminology
 </h1>
 
 <h4>
