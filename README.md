@@ -19,9 +19,9 @@
 * [GitHub](http://github.com/)
 * [Help](https://help.github.com/)
 
-<h3>
+<h1>
 Terminologies
-</h3>
+</h1>
 
 ## Repository
 
