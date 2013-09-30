@@ -33,3 +33,8 @@ Repository-
 A place, building, or receptacle where things are or may be stored.
 
 
+<h4>
+Pull Request-
+</h4>
+Pull requests let you tell others about changes you've pushed to a GitHub repository. Once a pull request is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary. 
+
