@@ -30,13 +30,5 @@ Terminologies
 <h4>
 Repository
 </h4>
+<p> a place, building, or receptacle where things are or may be stored. </p>
 
-A project saved in git
-
-<h1>
-Branches
-</h1>
-
-Commits
-
-## Pull request
