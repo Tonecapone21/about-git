@@ -40,12 +40,12 @@ Pull requests let you tell others about changes you've pushed to a GitHub reposi
 
 
 <h4>
-Fork
+Fork-
 </h4>
 In software engineering, a project fork happens when developers take a legal copy of source code from one software package and start independent development on it, creating a distinct piece of software.
 
 
 <h4>
-Branches
+Branches-
 </h4>
 A branch in Git is simply a lightweight movable pointer to one or many commits.
