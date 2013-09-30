@@ -27,8 +27,8 @@ About Git
 Terminologies
 </h1>
 
-<h5>
+<h4>
 Repository
-</h5>
+</h4>
 <p> a place, building, or receptacle where things are or may be stored. </p>
 
