@@ -14,10 +14,10 @@
 * [Campaign Monitor](https://cramerdev.createsend.com/login.aspx)
 
 ##About Git
-* [Help](https://help.github.com/)
-* [GitHub](http://github.com/)
-* [Try GitHub](http://try.github.io/levels/1/challenges/1)
 
+* [Learn GitHub](http://try.github.io/levels/1/challenges/1)
+* [GitHub](http://github.com/)
+* [Help](https://help.github.com/)
 
 
 ## Repository
