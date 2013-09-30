@@ -27,9 +27,9 @@ About Git
 Terminologies
 </h1>
 
-<h3>
+<h4>
 Repository
-</h3>
+</h4>
 
 A project saved in git
 
