@@ -1,3 +1,5 @@
+<img src="http://content.screencast.com/users/MichaelLyon/folders/Jing/media/abbc9871-dcaf-4483-91a0-cf3f434a72fb/2013-09-30_1027.png"></img>
+
 # About Git
 
 ## Git
