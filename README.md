@@ -1,6 +1,8 @@
 <img src="http://content.screencast.com/users/MichaelLyon/folders/Jing/media/abbc9871-dcaf-4483-91a0-cf3f434a72fb/2013-09-30_1027.png"></img>
 
-## Links for Radiology Protocols
+<h1>
+Links for Radiology Protocols
+</h1>
 
 * [Google](http://google.com/) 
 * [Balsamiq](http://Balsamiq.com)
@@ -13,7 +15,9 @@
 * [Google Analytics](http://Google.com/analytics)
 * [Campaign Monitor](https://cramerdev.createsend.com/login.aspx)
 
-##About Git
+<h1>
+About Git
+</h1>
 
 * [Learn GitHub](http://try.github.io/levels/1/challenges/1)
 * [GitHub](http://github.com/)
