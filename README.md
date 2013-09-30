@@ -28,7 +28,8 @@ Terminologies
 </h1>
 
 <h4>
-Repository--a place, building, or receptacle where things are or may be stored.
+Repository-
 </h4>
+A place, building, or receptacle where things are or may be stored.
 
 
