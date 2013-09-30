@@ -1,3 +1,5 @@
+<img src="http://content.screencast.com/users/MichaelLyon/folders/Jing/media/abbc9871-dcaf-4483-91a0-cf3f434a72fb/2013-09-30_1027.png"></img>
+
 # About Git
 
 ## Git
@@ -9,10 +11,11 @@ Distributed version control system.
 ## GihHub
 
 * [Help](https://help.github.com/)
-* [GitHub for Mac](http://mac.github.com/)
+* [GitHub](http://mac.github.com/)
 * [Google](http://google.com/) 
-* [wikipedia](https://wikipedia.com/)
-* <img class="decoded" src="http://aplevy.files.wordpress.com/2012/05/derrick-rose-dunks-on-donte-greene.jpg" alt="http://aplevy.files.wordpress.com/2012/05/derrick-rose-dunks-on-donte-greene.jpg"></img>
+* [Balsamiq](http://Balsamiq.com)
+* [Radiology_protocols](https://RadiologyProtocols.com)
+* [Staging_Radiology_Protocols](http://Staging.radiologyprotocols.com)
 
 A hub of Gits
 
